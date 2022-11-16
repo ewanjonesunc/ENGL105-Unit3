@@ -1,2 +1,2 @@
 # Data
-This folder contains a dataset, and a subset of that dataset.
+This folder contains a dataset and a subset of that dataset.
