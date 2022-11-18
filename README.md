@@ -9,3 +9,5 @@ It also contains two `.csv` files, found in the [Data](/Data) folder:
 2. The file entitled [`Earthquake_subset`](https://github.com/ewanjonesunc/ENGL105-Unit3/blob/e42a94aafb6dd0110cc49eb71c0da05d1eadb940/Data/Earthquake_subset.csv) was created using the same instructions found in the python notebook. It contains only data from the southern hemisphere, and is simplified to only include particular columns that are most relevant, like time, magnitude, depth, and latitude and longitude. It also includes a readable place indicator.
 
 The subset extracted from the raw data might serve to answer research questions about the magnitude and depth of earthquakes in the southern hemisphere over time, or just by region over a full year.
+
+![Earthquakes in the Southern Hemisphere by Magnitude](/Data/SouthernEarthquakesViz.png)
