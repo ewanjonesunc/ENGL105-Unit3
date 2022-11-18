@@ -1,4 +1,4 @@
-# ENGL105-Unit3
+# U.S. Geological Survey Earthquake Repo
 
 This is a repository containing instructional materials and a dataset for a project in ENGL105 at the University of North Carolina, Chapel Hill. 
 
