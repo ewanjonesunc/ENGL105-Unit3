@@ -10,4 +10,4 @@ It also contains two `.csv` files, found in the [Data](/Data) folder:
 
 The subset extracted from the raw data might serve to answer research questions about the magnitude and depth of earthquakes in the southern hemisphere over time, or just by region over a full year.
 
-![Earthquakes in the Southern Hemisphere by Magnitude](/Data/SouthernEarthquakesViz.png)
+![Earthquakes in the Southern Hemisphere by Magnitude](/Data/SouthernEarthquakesVisualization.png)
