@@ -20,4 +20,4 @@ Distribution of earthquakes in the southern hemisphere by magnitude can be visua
 
 The lines of especially dark red illustrate what is often called the "ring of fire" or the dividing lines of Earth's tectonic plates. They roughly line up with the following map: 
 
-![Tectonic Plates Map](/Data/Tectonic Plates Map.png)
+![Tectonic Plates Map](/Data/TectonicPlatesMap.png)
