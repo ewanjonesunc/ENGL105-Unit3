@@ -16,7 +16,7 @@ The subset extracted from the raw data might serve to answer research questions 
 
 ## Visualization
 
-Distribution of earthquakes in the southern hemisphere by magnitude can be visualized via the following map: 
+Part of the subset, distribution of earthquakes in the southern hemisphere by magnitude, can be visualized via the following map: 
 
 ![Earthquakes in the Southern Hemisphere by Magnitude](/Data/SouthernEarthquakesVisualization.png)
 
