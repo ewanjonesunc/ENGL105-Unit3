@@ -20,6 +20,6 @@ Part of the subset, distribution of earthquakes in the southern hemisphere by ma
 
 ![Earthquakes in the Southern Hemisphere by Magnitude](/Data/SouthernEarthquakesVisualization.png)
 
-The especially dark red circles create lines, illustrating what is sometimes informally called the "ring of fire" or the dividing lines of Earth's tectonic plates. They roughly line up with the following map, as the most intense earthquakes most commonly happen at these junctures.
+The especially dark red-purple circles create lines, illustrating what is sometimes informally called the "ring of fire" or the dividing lines of Earth's tectonic plates. They roughly line up with the following map, as the most intense earthquakes most commonly happen at these junctures.
 
 ![Tectonic Plates Map](/Data/TectonicPlatesMap.png)
