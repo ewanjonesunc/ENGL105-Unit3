@@ -16,10 +16,10 @@ The subset extracted from the raw data might serve to answer research questions 
 
 ## Visualization
 
-Part of the subset, distribution of earthquakes in the southern hemisphere by magnitude, can be visualized via the following map: 
+Part of the subset, distribution of earthquakes in the southern hemisphere by magnitude, can be visualized like so: 
 
 ![Earthquakes in the Southern Hemisphere by Magnitude](/Data/SouthernEarthquakesVisualization.png)
 
-The lines of especially dark red illustrate what is sometimes informally called the "ring of fire" or the dividing lines of Earth's tectonic plates. They roughly line up with the following map: 
+The especially dark red circles create lines, illustrating what is sometimes informally called the "ring of fire" or the dividing lines of Earth's tectonic plates. They roughly line up with the following map, as the most intense earthquakes most commonly happen at these junctures.
 
 ![Tectonic Plates Map](/Data/TectonicPlatesMap.png)
