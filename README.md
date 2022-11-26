@@ -12,7 +12,7 @@ It also contains two `.csv` files, found in the [Data](/Data) folder:
 
 ## Purpose
 
-Interstice Science has a strong interest in seismological research, especially research questions related to magnitude and depth of earthquakes in the southern hemisphere, where it is based. Any analysis of change in these variables over time, or of the full region over a year, is of great interest to I.S. 
+Interstice Science has a strong interest in seismological research, especially research questions related to magnitude and depth of earthquakes in the southern hemisphere, where most of its labs are based. Any analysis of change in these variables over time, or of the full region over a year, is of great interest to Interstice. 
 
 ## Visualization
 
