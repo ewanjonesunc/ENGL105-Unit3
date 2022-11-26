@@ -1,6 +1,6 @@
 # U.S. Geological Survey Earthquake Repo
 
-This is a repository containing instructional materials and a dataset for a project in ENGL105 at the University of North Carolina, Chapel Hill. 
+This is a repository containing instructional materials and a public dataset, intended for future scientific analysis. Created for the public science organization Interstice Science. 
 
 ## Contents and source
 
