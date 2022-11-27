@@ -1,6 +1,6 @@
 # U.S. Geological Survey Earthquake Repo
 
-This is a repository containing instructional materials and a public dataset, intended for future scientific analysis by seismologists. Created for the public science organization Interstice Science. 
+This is a repository containing instructional materials and a public dataset, intended for future scientific analysis by seismologists. Created for the public science organization [Interstice Science](https://sites.google.com/view/intersticescience/home). 
 
 ## Contents and source
 
